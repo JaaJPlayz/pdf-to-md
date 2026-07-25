@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["AGENTS.md", "PRD.md"],
+  "references": {
+    "prd": {
+      "path": "PRD.md",
+      "description": "Product requirements and feature specification for pdf-to-md"
+    }
+  }
+}

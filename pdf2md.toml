@@ -1,0 +1,4 @@
+[pdf2md]
+engine = "auto"
+extract_images = true
+recursive = false
